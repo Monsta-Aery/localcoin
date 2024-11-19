@@ -1,2 +1,0 @@
-# localcoin
-localcoin
